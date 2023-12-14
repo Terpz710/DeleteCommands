@@ -29,7 +29,7 @@ class DeleteCommands extends PluginBase {
 
 	public function onEnable() : void {
 		$this->saveResources();
-		$task = new ClosureTask(function(int $currentTick) : void {
+		$task = new ClosureTask(function() : void {
 			$this->deleteCommands();
 		});
 		$this->getScheduler()->scheduleDelayedTask($task, 0);
