@@ -2,7 +2,7 @@
 name: DeleteCommands
 author: IvanCraft623, Terpz710
 description: Delete the commands from your server that you don't want!
-version: 1.0.2
+version: 1.0.2-alpha2
 main: IvanCraft623\DeleteCommands\DeleteCommands
 api: 5.0.0
 ...
