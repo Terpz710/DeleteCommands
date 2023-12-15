@@ -5,5 +5,5 @@
 
 #Commands to be deleted
 Commands:
-  - "example" This is an example of how you should place the command (You should not put the command with "/").
+  - "help" This is an example of how you should place the command (You should not put the command with "/").
 ...
